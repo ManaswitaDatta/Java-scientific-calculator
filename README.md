@@ -1,3 +1,3 @@
 # Java-scientific-calculator
-Scientic calculator implemented using java.
-Graphics used.
+Scientic calculator implemented using java(swing).
+
